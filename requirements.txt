@@ -1,0 +1,6 @@
+streamlit
+pydeck
+opencv-python
+numpy
+ultralytics
+requests
